@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/*---------------- 
+    top-header-start
+------------------ */
+#top-header{
+    border: 1px solid red;
+    width: 80%;
+    height: 80px;
+}
+
+
+/*---------------- 
+    top-header-end
+------------------ */
